@@ -1,0 +1,1 @@
+https://github.com/ingarskrafts/juphc-tc_pipeline/blob/main/pipeline.yaml
