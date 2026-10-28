@@ -1,0 +1,16 @@
+docker push us.icr.io/${SN_ICR_NAMESPACE}/zntwk-tax-calculator
+Using default tag: latest
+The push refers to repository [us.icr.io/sn-labs-ingarskrafts/zntwk-tax-calculator]
+c9fd357e567a: Pushed 
+8aab7abb499f: Pushed 
+b69b842fb593: Pushed 
+588985ca2157: Pushed 
+4d2b1fe84c43: Pushed 
+1f6769d33b2c: Pushed 
+268dcb7d3ded: Pushed 
+3ed70aff1d48: Pushed 
+b4ae38225777: Pushed 
+dd5ee23ab910: Pushed 
+1f5a1d1be68f: Pushed 
+15f1c8eb1ab1: Pushed 
+latest: digest: sha256:19f969ce4e61b2630ce5d270c8762ec3030a6731bc0974c8d6b0727ce774cfc2 size: 2816
